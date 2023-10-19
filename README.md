@@ -1,6 +1,8 @@
-# Frontend Mentor - Kanban task management web app solution
+# Ujjwal Rastogi - Kanban task management web app solution
 
-- [this project YouTube video Tutorial](https://www.youtube.com/watch?v=3RWMktZNsJQ&t=1707s)
+### Links
+
+- Live Site URL: [link](https://ujjwalsapp.netlify.app/)
 
 This is a solution to the [Kanban task management web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -11,8 +13,7 @@ This is a solution to the [Kanban task management web app challenge on Frontend 
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+  
 
 ## Overview
 
@@ -48,11 +49,18 @@ Bonus:
 
 ### Screenshot
 
-![Screenshot](<./public/screenshots/Screen%20Shot%202023-03-29%20at%201.40.56%20PM%20(2).png>)
+![image](https://github.com/ujjwalrastogi479/MyWays_ASSESMENT/assets/122636650/4bda3058-a398-414c-8a7b-d26cea7b7603)
+![image](https://github.com/ujjwalrastogi479/MyWays_ASSESMENT/assets/122636650/e276fb4a-efee-4745-b1d2-05272775297a)
+![image](https://github.com/ujjwalrastogi479/MyWays_ASSESMENT/assets/122636650/95418925-172f-4611-bfca-7d5c27bc26dc)
+![image](https://github.com/ujjwalrastogi479/MyWays_ASSESMENT/assets/122636650/a9fb3692-f582-4b95-8d0b-98c9f5180c2f)
+![image](https://github.com/ujjwalrastogi479/MyWays_ASSESMENT/assets/122636650/c8a5befc-4f53-4335-95da-764a3f020ff5)
+![image](https://github.com/ujjwalrastogi479/MyWays_ASSESMENT/assets/122636650/ee8239ac-312c-48b9-8e96-f3cbd122b98d)
+
+
 
 ### Links
 
-- Live Site URL: [link](https://kanban-task-management-react-tailwind.vercel.app/)
+- Live Site URL: [link](https://ujjwalsapp.netlify.app/)
 
 ### Built with
 
@@ -61,10 +69,5 @@ Bonus:
 - [React](https://reactjs.org/) - JS library
 - [Redux](https://redux.js.org/) - State management tool
 
-### Useful resources
 
-- [Drag and Drop quick tutorial](https://www.youtube.com/watch?v=u65Y-vqYNAk)
 
-## Author
-
-- LinkedIn - [Hesam DearBoy](https://www.linkedin.com/in/hesam-azizpour-23259b265/)
